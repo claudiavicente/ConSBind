@@ -4,9 +4,9 @@ ConSBind is a Python package for predicting protein binding sites using a consen
 
 ## Features
 
-- Detection of protein binding sites using multiple methods
+- Detection of protein binding sites using geometry and energy-based methods
 - Consensus scoring to improve prediction reliability
-- Knowledge-based filters to identify catalytic sites and other functional regions
+- Knowledge-based filters to identify pockets 
 - Ability to customize prediction parameters for different protein types
 - Output in standard PDB format with visualization support for PyMOL and UCSF Chimera
 - Automatic handling of both PDB and ENT file formats
