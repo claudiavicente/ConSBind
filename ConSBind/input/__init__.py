@@ -1,0 +1,3 @@
+"""
+Input module for ConSBind
+"""

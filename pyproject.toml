@@ -1,0 +1,45 @@
+[build-system]
+requires = ["setuptools>=64", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ConSBind"
+version = "1.0.0"
+authors = [
+    {name = "Noelia Gil"},
+    {name = "Xavier Vílchez"},
+    {name = "Clàudia Vicente"}
+]
+description = "Consensus Structural Binding site predictor"
+readme = "README.md"
+requires-python = ">=3.6"
+license = {text = "MIT"}
+urls = {Homepage = "https://github.com/claudiavicente/ConSBind"}
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Topic :: Scientific/Engineering :: Bio-Informatics",
+    "Topic :: Scientific/Engineering :: Chemistry"
+]
+
+dependencies = [
+    "numpy>=1.19.0",
+    "scipy>=1.5.0",
+    "biopython>=1.78",
+    "scikit-learn>=0.23.0",
+    "tqdm>=4.64.0",
+    "colorama>=0.4.6"
+]
+
+[project.scripts]
+consbind = "main:main"
+
+[tool.setuptools]
+packages = ["ConSBind"]
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+    "pytest-cov"
+]
