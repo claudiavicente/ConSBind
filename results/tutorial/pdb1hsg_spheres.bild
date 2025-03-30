@@ -1,5 +1,13 @@
 .transparency 0.0
-.comment Binding site 1 (Score: 16.55)
+.comment Binding site 1 (Score: 13.90)
 .color 0.13 0.55 0.13
-.sphere 17.15 15.58 -7.77 2.0
+.sphere 16.83 32.01 -2.75 2.0
+
+.comment Binding site 2 (Score: 14.20)
+.color 0.13 0.55 0.13
+.sphere 12.97 35.52 14.43 2.0
+
+.comment Binding site 3 (Score: 10.72)
+.color 0.13 0.55 0.13
+.sphere 12.83 21.35 -8.06 2.0
 

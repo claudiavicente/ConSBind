@@ -1,16 +1,47 @@
+[![Tutorial](https://img.shields.io/badge/Tutorial-orange?style=for-the-badge&logo=jupyter&logoColor=white)](Tutorial.ipynb)
+[![Analysis](https://img.shields.io/badge/Analysis-green?style=for-the-badge&logo=jupyter&logoColor=white)](Analysis.ipynb)
+[![Theory](https://img.shields.io/badge/Theory-purple?style=for-the-badge&logo=jupyter&logoColor=white)](Theory.ipynb)
+ 
+
+
+
+
 # ConSBind: Consensus Structural Binding Site Predictor
 
 ConSBind is a Python package for predicting protein binding sites using a consensus of geometric and energy-based approaches. The tool identifies potential binding pockets in protein structures and scores them based on multiple complementary criteria, with an intuitive and user-friendly interface.
 
 ## Features
 
-- Detection of protein binding sites using multiple methods
+- Detection of protein binding sites using geometry and energy-based methods
 - Consensus scoring to improve prediction reliability
-- Knowledge-based filters to identify catalytic sites and other functional regions
+- Knowledge-based filters to identify pockets 
 - Ability to customize prediction parameters for different protein types
 - Output in standard PDB format with visualization support for PyMOL and UCSF Chimera
 - Automatic handling of both PDB and ENT file formats
 - Batch processing of multiple protein structures
+
+## Binding Site Scores
+
+ConSBind uses several score metrics:
+
+1. **Consensus Score**: Measures agreement between different detection methods
+2. **Binding Potential Score**: Composite score combining consensus and pocket characteristics
+3. **Druggability Score**: Estimates the pocket's suitability for small molecule binding
+4. **Knowledge-based Score**: Based on known binding site residue patterns
+
+## Methodology
+
+ConSBind implements a pipeline for binding site identification that combines multiple complementary computational techniques to improve prediction accuracy.
+
+![](images/consbind_pipeline.png)
+
+Mainly; pocket detection, scoring and filtering combines multiple approaches to binding site identification:
+
+1. **Geometric**: Identifies cavities and pockets in the protein structure
+2. **Energy-based**: Evaluates the physicochemical properties of potential binding regions
+3. **Knowledge-based**: Applies known patterns of binding site composition and architecture
+
+The final predictions represent a consensus of these approaches, ranked by a combined score that prioritizes consistent pockets detected by multiple methods.
 
 ## Installation
 
@@ -99,7 +130,7 @@ Available options:
 | `--consensus_threshold` | Minimum consensus score                               | 1.5              |
 | `--protein_type`     | Type of protein: enzyme, transporter, receptor, or unknown | unknown          |
 | `--generate_pymol`   | Generate PyMOL visualization script                      | True             |
-| `--generate_chimera` | Generate UCSF Chimera visualization script               | False            |
+| `--generate_chimera` | Generate UCSF Chimera visualization script               | True            |
 
 ## Visualization
 
@@ -116,29 +147,6 @@ pymol results/protein/protein_pymol.pml
 ```bash
 chimera results/protein/protein_predicted.pdb results/protein/protein_chimera.cmd
 ```
-
-## Binding Site Scores
-
-ConSBind uses several score metrics:
-
-1. **Consensus Score**: Measures agreement between different detection methods
-2. **Binding Potential Score**: Composite score combining consensus and pocket characteristics
-3. **Druggability Score**: Estimates the pocket's suitability for small molecule binding
-4. **Knowledge-based Score**: Based on known binding site residue patterns
-
-## Methodology
-
-ConSBind implements a pipeline for binding site identification that combines multiple complementary computational techniques to improve prediction accuracy.
-
-![](images/consbind_pipeline.png)
-
-Mainly; pocket detection, scoring and filtering combines multiple approaches to binding site identification:
-
-1. **Geometric**: Identifies cavities and pockets in the protein structure
-2. **Energy-based**: Evaluates the physicochemical properties of potential binding regions
-3. **Knowledge-based**: Applies known patterns of binding site composition and architecture
-
-The final predictions represent a consensus of these approaches, ranked by a combined score that prioritizes consistent pockets detected by multiple methods.
 
 ## License
 
