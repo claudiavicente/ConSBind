@@ -1,0 +1,15 @@
+Predicted Binding Sites
+======================
+
+Site 1:
+Detection Methods: energy
+Consensus Score: 3.00
+Binding Potential Score: 12.04
+Size: 4
+Center: -31.850, -23.195, 1.220
+
+Binding Site Residues:
+  A:LEU27
+  A:VAL28
+  A:THR29
+

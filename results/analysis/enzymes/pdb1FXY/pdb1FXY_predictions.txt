@@ -1,0 +1,88 @@
+Predicted Binding Sites
+======================
+
+Site 1:
+Detection Methods: energy, geometric
+Consensus Score: 5.00
+Binding Potential Score: 16.74
+Size: 3
+Center: 12.229, 0.752, 29.883
+
+Binding Site Residues:
+  A:TYR51
+  A:ILE52
+  A:LEU53
+  A:THR54
+  A:ALA55
+  A:ALA56
+  A:LEU59
+  A:PHE64
+  A:VAL85
+  A:VAL87
+  A:VAL88
+  A:ILE89
+  A:LYS90
+  A:HIS91
+  A:ILE103
+  A:ALA104
+  A:VAL105
+  A:LEU106
+  A:ARG107
+  A:TRP237
+  A:THR241
+
+Site 2:
+Detection Methods: geometric, energy
+Consensus Score: 3.00
+Binding Potential Score: 11.59
+Druggability: 0.38
+Knowledge-based Score: 1.50
+Size: 15
+Center: 14.829, -7.315, 32.683
+
+Binding Site Residues:
+  A:TYR51
+  A:ILE89
+  A:VAL105
+  A:LYS236
+  A:TRP237
+  A:ILE238
+  A:LYS239
+  A:ASN240
+  A:THR241
+  A:ILE242
+  A:ALA243
+  A:ALA244
+  A:ASN245
+  A:SER246
+
+Site 3:
+Detection Methods: energy
+Consensus Score: 3.00
+Binding Potential Score: 10.79
+Size: 4
+Center: 12.562, -9.915, 24.716
+
+Binding Site Residues:
+  A:THR45
+  A:ILE46
+  A:LEU47
+  A:SER48
+  A:TYR51
+  A:ILE52
+  A:LEU53
+  A:ILE103
+  A:VAL105
+  A:ALA121
+  A:SER122
+  A:LEU123
+  A:PRO124
+  A:LEU209
+  A:VAL231
+  A:TYR234
+  A:VAL235
+  A:TRP237
+  A:ILE238
+  A:LYS239
+  A:ILE242
+

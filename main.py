@@ -250,10 +250,10 @@ def main():
     # Output options
     parser.add_argument('--output_dir', default='results', 
                         help='Output directory (default: results)')
-    parser.add_argument('--generate_pymol', action='store_true', default=True,
-                        help='Generate PyMOL visualization script (default: True)')
-    parser.add_argument('--generate_chimera', action='store_true', default=True,
-                        help='Generate UCSF Chimera visualization script (default: True)')
+    parser.add_argument('--generate_pymol', action='store_true', default=False,
+                        help='Generate PyMOL visualization script (default: False)')
+    parser.add_argument('--generate_chimera', action='store_true', default=False,
+                        help='Generate UCSF Chimera visualization script (default: False)')
     
     # Prediction parameters
     predict_group = parser.add_argument_group('Prediction Parameters')

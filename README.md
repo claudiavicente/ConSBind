@@ -129,8 +129,8 @@ Available options:
 | `--score_threshold`  | Minimum score threshold                                  | 3.0              |
 | `--consensus_threshold` | Minimum consensus score                               | 1.5              |
 | `--protein_type`     | Type of protein: enzyme, transporter, receptor, or unknown | unknown          |
-| `--generate_pymol`   | Generate PyMOL visualization script                      | True             |
-| `--generate_chimera` | Generate UCSF Chimera visualization script               | True            |
+| `--generate_pymol`   | Generate PyMOL visualization script                      | False            |
+| `--generate_chimera` | Generate UCSF Chimera visualization script               | False            |
 
 ## Visualization
 

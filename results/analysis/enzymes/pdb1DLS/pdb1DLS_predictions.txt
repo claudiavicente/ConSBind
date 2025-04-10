@@ -1,0 +1,103 @@
+Predicted Binding Sites
+======================
+
+Site 1:
+Detection Methods: geometric
+Consensus Score: 3.90
+Binding Potential Score: 19.08
+Druggability: 0.55
+Knowledge-based Score: 4.00
+Size: 47
+Center: 25.728, 13.637, -12.962
+
+Binding Site Residues:
+  A:ILE7
+  A:ASN29
+  A:GLU30
+  A:TYR33
+  A:PHE34
+  A:ARG36
+  A:MET37
+  A:PHE134
+  A:VAL135
+  A:THR136
+  A:ARG137
+  A:GLY164
+  A:VAL165
+  A:LEU166
+  A:SER167
+  A:ASP168
+  A:GLN170
+  A:TYR177
+  A:LYS178
+  A:PHE179
+  A:GLU180
+  A:VAL181
+
+Site 2:
+Detection Methods: geometric
+Consensus Score: 3.90
+Binding Potential Score: 14.34
+Druggability: 0.49
+Knowledge-based Score: 3.00
+Size: 6
+Center: 20.093, 6.779, -6.395
+
+Binding Site Residues:
+  A:CYS6
+  A:ILE7
+  A:VAL8
+  A:ALA9
+  A:VAL10
+  A:MET14
+  A:TYR121
+  A:MET125
+  A:LYS132
+  A:LEU133
+  A:PHE134
+  A:VAL135
+  A:THR136
+  A:ARG137
+  A:PHE148
+  A:PRO149
+  A:ILE151
+  A:TYR156
+  A:LEU158
+  A:GLU180
+  A:VAL181
+  A:TYR182
+  A:GLU183
+
+Site 3:
+Detection Methods: geometric
+Consensus Score: 3.00
+Binding Potential Score: 31.93
+Druggability: 0.45
+Knowledge-based Score: 1.50
+Size: 218
+Center: 27.627, 9.152, -2.788
+
+Binding Site Residues:
+  A:ILE7
+  A:VAL8
+  A:ALA9
+  A:VAL10
+  A:SER11
+  A:GLY15
+  A:ILE16
+  A:GLY17
+  A:TYR22
+  A:PRO23
+  A:TRP24
+  A:GLU30
+  A:PHE34
+  A:ILE114
+  A:VAL115
+  A:GLY116
+  A:TYR121
+  A:PHE134
+  A:VAL135
+  A:THR136
+  A:ILE138
+  A:PHE148
+
