@@ -3,30 +3,20 @@ Predicted Binding Sites
 
 Site 1:
 Detection Methods: energy
-Consensus Score: 3.00
-Binding Potential Score: 12.18
+Consensus Score: 5.00
+Binding Potential Score: 16.91
 Size: 3
-Center: -50.946, 19.755, 17.340
+Center: -20.280, 20.422, 5.340
 
 Binding Site Residues:
-  A:ILE38
-  A:VAL39
-  A:LEU42
-  A:ILE43
-  A:LEU45
-  A:ALA46
-
-Site 2:
-Detection Methods: energy, geometric
-Consensus Score: 3.00
-Binding Potential Score: 11.36
-Size: 3
-Center: -23.613, 23.089, 12.674
-
-Binding Site Residues:
+  A:THR118
   A:ILE121
-  A:LEU124
+  A:GLU122
   A:CYS125
+  A:SER204
+  A:ILE205
+  A:VAL206
+  A:SER207
   A:PHE208
   A:TYR209
   A:VAL210
@@ -35,65 +25,33 @@ Binding Site Residues:
   A:VAL213
   A:ILE214
   A:MET215
-  A:VAL216
-  A:PHE217
-  A:MET279
-  A:GLY280
-  A:PHE282
-  A:THR283
-  A:LEU284
-  A:LEU287
 
-Site 3:
-Detection Methods: geometric, energy
+Site 2:
+Detection Methods: energy
 Consensus Score: 3.00
-Binding Potential Score: 10.94
-Druggability: 0.48
-Knowledge-based Score: 2.00
-Size: 5
-Center: -30.403, 4.822, 20.407
+Binding Potential Score: 10.87
+Size: 4
+Center: -27.613, 22.922, -1.493
 
 Binding Site Residues:
-  A:PRO288
-  A:VAL292
-  A:HIS296
-  A:LEU302
-  A:ILE303
-  A:ARG304
-  A:LYS305
-  A:GLU306
-  A:VAL307
-  A:TYR308
-  A:ILE309
-  A:LEU310
-  A:LEU311
-
-Site 4:
-Detection Methods: energy, geometric
-Consensus Score: 3.00
-Binding Potential Score: 10.75
-Size: 3
-Center: -31.613, 11.089, 16.674
-
-Binding Site Residues:
-  A:LEU284
-  A:CYS285
-  A:TRP286
-  A:LEU287
-  A:PRO288
-  A:PHE289
-  A:PHE290
-  A:ILE291
-  A:VAL292
-  A:ASN293
-  A:VAL307
-  A:TYR308
-  A:ILE309
-  A:LEU310
-  A:LEU311
-  A:ASN312
-  A:TRP313
-  A:ILE314
-  A:GLY315
-  A:TYR316
+  A:SER74
+  A:LEU115
+  A:THR118
+  A:ALA119
+  A:SER120
+  A:ILE121
+  A:GLU122
+  A:THR123
+  A:LEU124
+  A:VAL126
+  A:ILE153
+  A:ILE154
+  A:LEU155
+  A:MET156
+  A:VAL157
+  A:TRP158
+  A:ILE159
+  A:VAL160
+  A:SER161
+  A:GLY162
 

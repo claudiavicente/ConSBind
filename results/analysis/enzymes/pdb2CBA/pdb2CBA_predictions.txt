@@ -2,96 +2,32 @@ Predicted Binding Sites
 ======================
 
 Site 1:
-Detection Methods: geometric, energy
-Consensus Score: 5.00
-Binding Potential Score: 16.91
-Druggability: 0.23
-Knowledge-based Score: 1.50
-Size: 9
-Center: -17.805, -0.751, 17.292
+Detection Methods: geometric
+Consensus Score: 3.90
+Binding Potential Score: 13.90
+Druggability: 0.39
+Knowledge-based Score: 2.50
+Size: 5
+Center: -12.116, -1.195, 21.403
 
 Binding Site Residues:
-  A:LEU47
-  A:VAL49
-  A:TYR51
-  A:LEU79
-  A:LEU90
-  A:PHE93
+  A:HIS107
+  A:GLU117
   A:LEU118
   A:HIS119
   A:LEU120
   A:VAL121
-  A:HIS122
+  A:ALA142
   A:VAL143
   A:LEU144
   A:GLY145
   A:ILE146
-  A:PRO181
-  A:LEU184
-  A:LEU185
-  A:PRO186
-  A:LEU189
+  A:TRP192
+  A:TYR194
+  A:VAL207
+  A:THR208
+  A:TRP209
   A:ILE210
+  A:VAL211
   A:LEU212
-
-Site 2:
-Detection Methods: geometric
-Consensus Score: 3.90
-Binding Potential Score: 17.11
-Druggability: 0.62
-Knowledge-based Score: 2.50
-Size: 36
-Center: -9.777, 2.333, 12.570
-
-Binding Site Residues:
-  A:ASN62
-  A:ALA65
-  A:PHE66
-  A:ASN67
-  A:VAL68
-  A:GLU69
-  A:LEU90
-  A:ILE91
-  A:GLN92
-  A:PHE93
-  A:HIS94
-  A:PHE95
-  A:HIS96
-  A:LEU118
-  A:HIS119
-  A:LEU120
-  A:VAL121
-  A:HIS122
-  A:PHE131
-  A:VAL143
-  A:LEU144
-
-Site 3:
-Detection Methods: geometric
-Consensus Score: 3.00
-Binding Potential Score: 11.85
-Druggability: 0.31
-Knowledge-based Score: 1.50
-Size: 18
-Center: -21.194, 4.472, 29.125
-
-Binding Site Residues:
-  A:SER43
-  A:LEU44
-  A:LYS45
-  A:PRO46
-  A:LEU47
-  A:SER48
-  A:LEU79
-  A:LYS80
-  A:GLY81
-  A:GLY82
-  A:PRO83
-  A:LEU84
-  A:ASP85
-  A:LEU189
-  A:TYR191
-  A:THR193
-  A:ILE210
-  A:SER259
 

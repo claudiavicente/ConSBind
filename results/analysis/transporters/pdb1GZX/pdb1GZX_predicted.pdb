@@ -5755,24 +5755,13 @@ CONECT 4568 4566 4567
 MASTER      607    0    8   38    0    0   22    6 4769    4  188   46          
 
 REMARK   Predicted Binding Sites
-REMARK   Generated on 2025-04-10 16:22:44
-REMARK   Site 1 - Method: geometric, Consensus: 3.00, Binding Potential: 13.57
-ATOM  10000  O   SIT X  1     -15.050  20.797   5.445  1.00  3.00           O
-ATOM  10001  H   SIT X  1     -15.450  21.597   4.645  1.00  0.00           H
-ATOM  10002  H   SIT X  1     -15.450  19.597   5.645  1.00  0.00           H
-ATOM  10003  H   SIT X  1     -15.450  19.597   5.645  1.00  0.00           H
-ATOM  10004  H   SIT X  1     -14.450  21.597   5.645  1.00  0.00           H
-ATOM  10005  H   SIT X  1     -14.450  21.597   5.645  1.00  0.00           H
-REMARK   Site 2 - Method: geometric, Consensus: 3.00, Binding Potential: 11.04
-ATOM  10006  O   SIT X  2     -36.672   6.153  -0.466  1.00  3.00           O
-ATOM  10007  H   SIT X  2     -35.450   6.597  -0.355  1.00  0.00           H
-ATOM  10008  H   SIT X  2     -35.450   6.597  -0.355  1.00  0.00           H
-ATOM  10009  H   SIT X  2     -34.450   8.597  -0.355  1.00  0.00           H
-ATOM  10010  H   SIT X  2     -38.450   4.597  -0.355  1.00  0.00           H
-ATOM  10011  H   SIT X  2     -38.450   4.597  -0.355  1.00  0.00           H
-ATOM  10012  H   SIT X  2     -36.450   7.597  -2.355  1.00  0.00           H
-ATOM  10013  H   SIT X  2     -38.450   5.597   0.645  1.00  0.00           H
-ATOM  10014  H   SIT X  2     -36.450   5.597  -0.355  1.00  0.00           H
-ATOM  10015  H   SIT X  2     -36.450   5.597  -0.355  1.00  0.00           H
+REMARK   Generated on 2025-04-11 10:37:31
+REMARK   Site 1 - Method: geometric, Consensus: 3.00, Binding Potential: 10.92
+ATOM  10000  O   SIT X  1      -8.450  19.197  -6.355  1.00  3.00           O
+ATOM  10001  H   SIT X  1      -7.450  17.597  -7.355  1.00  0.00           H
+ATOM  10002  H   SIT X  1      -7.450  17.597  -7.355  1.00  0.00           H
+ATOM  10003  H   SIT X  1     -10.450  21.597  -6.355  1.00  0.00           H
+ATOM  10004  H   SIT X  1      -8.450  19.597  -5.355  1.00  0.00           H
+ATOM  10005  H   SIT X  1      -8.450  19.597  -5.355  1.00  0.00           H
 TER
 END

@@ -25118,14 +25118,13 @@ CONECT2365323643
 MASTER      877    0    2  119  118    0    4    623650    3   26  246          
 
 REMARK   Predicted Binding Sites
-REMARK   Generated on 2025-04-10 16:31:21
-REMARK   Site 1 - Method: geometric, Consensus: 3.00, Binding Potential: 10.73
-ATOM  10000  O   SIT X  1     -90.566  -9.750   0.406  1.00  3.00           O
-ATOM  10001  H   SIT X  1     -90.233 -10.083   0.406  1.00  0.00           H
-ATOM  10002  H   SIT X  1     -90.233 -10.083   0.406  1.00  0.00           H
-ATOM  10003  H   SIT X  1     -91.233 -10.083   0.406  1.00  0.00           H
-ATOM  10004  H   SIT X  1     -91.233 -10.083   0.406  1.00  0.00           H
-ATOM  10005  H   SIT X  1     -90.233  -9.083   0.406  1.00  0.00           H
-ATOM  10006  H   SIT X  1     -90.233  -9.083   0.406  1.00  0.00           H
+REMARK   Generated on 2025-04-11 10:45:44
+REMARK   Site 1 - Method: geometric, Consensus: 1.00, Binding Potential: 6.92
+ATOM  10000  O   SIT X  1    -124.833  -5.283 -45.394  1.00  1.00           O
+ATOM  10001  H   SIT X  1    -125.233  -5.083 -44.594  1.00  0.00           H
+ATOM  10002  H   SIT X  1    -125.233  -5.083 -44.594  1.00  0.00           H
+ATOM  10003  H   SIT X  1    -125.233  -2.083 -44.594  1.00  0.00           H
+ATOM  10004  H   SIT X  1    -124.233  -7.083 -46.594  1.00  0.00           H
+ATOM  10005  H   SIT X  1    -124.233  -7.083 -46.594  1.00  0.00           H
 TER
 END

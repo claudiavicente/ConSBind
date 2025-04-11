@@ -3,31 +3,32 @@ Predicted Binding Sites
 
 Site 1:
 Detection Methods: geometric
-Consensus Score: 1.00
-Binding Potential Score: 7.74
-Druggability: 0.47
-Knowledge-based Score: 6.50
-Size: 6
-Center: 31.059, 12.040, 56.676
+Consensus Score: 3.00
+Binding Potential Score: 10.95
+Druggability: 0.50
+Knowledge-based Score: 1.50
+Size: 8
+Center: 38.101, 24.207, 25.718
 
 Binding Site Residues:
-  A:TRP755
-  A:MET756
-  A:LEU797
-  A:HIS881
-  A:ASP882
-  A:LEU883
-  A:VAL884
-  A:LYS885
-  A:GLN886
-  A:LEU887
-  A:HIS888
-  A:LEU889
-  A:TYR890
-  A:CYS891
-  A:LEU892
-  A:ASN893
-  A:LEU917
-  A:ILE920
-  A:LEU921
+  B:ILE694
+  B:PRO696
+  B:SER728
+  B:VAL729
+  B:VAL730
+  B:LYS731
+  B:TRP732
+  B:SER733
+  B:LYS734
+  B:SER735
+  B:LEU736
+  B:PRO737
+  B:PHE739
+  B:ARG740
+  B:GLN747
+  B:ILE751
+  B:LYS822
+  B:VAL823
+  B:LEU826
+  B:MET844
 

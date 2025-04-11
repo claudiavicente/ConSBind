@@ -3,17 +3,15 @@ Predicted Binding Sites
 
 Site 1:
 Detection Methods: energy, geometric
-Consensus Score: 7.00
-Binding Potential Score: 23.38
+Consensus Score: 9.00
+Binding Potential Score: 29.14
 Size: 3
-Center: 14.037, 23.682, 11.613
+Center: 13.370, 25.016, 8.279
 
 Binding Site Residues:
-  A:TRP14
-  A:ILE28
+  A:LEU29
   A:HIS64
   A:GLY65
-  A:VAL66
   A:THR67
   A:VAL68
   A:LEU69
@@ -21,12 +19,11 @@ Binding Site Residues:
   A:ALA71
   A:LEU72
   A:GLY73
-  A:ALA74
   A:ILE75
-  A:LEU76
   A:LEU89
+  A:HIS93
+  A:LEU104
   A:ILE107
   A:ILE111
-  A:LEU135
   A:PHE138
 

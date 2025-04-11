@@ -1504,81 +1504,13 @@ CONECT  988  984
 MASTER      303    0    4    3   14    0    9    6 1067    1   44   10          
 
 REMARK   Predicted Binding Sites
-REMARK   Generated on 2025-04-10 16:21:07
-REMARK   Site 1 - Method: geometric, Consensus: 1.30, Binding Potential: 40.10
-ATOM  10000  O   SIT X  1      22.305  17.951  27.329  1.00  1.30           O
-ATOM  10001  H   SIT X  1      12.265  18.563  20.133  1.00  0.00           H
-ATOM  10002  H   SIT X  1      23.265  25.563  27.133  1.00  0.00           H
-ATOM  10003  H   SIT X  1      28.265  19.563  33.133  1.00  0.00           H
-ATOM  10004  H   SIT X  1      27.265  18.563  41.133  1.00  0.00           H
-ATOM  10005  H   SIT X  1      29.265  16.563  43.133  1.00  0.00           H
-ATOM  10006  H   SIT X  1      13.265  19.563  21.133  1.00  0.00           H
-ATOM  10007  H   SIT X  1      24.265  13.563  38.133  1.00  0.00           H
-ATOM  10008  H   SIT X  1      20.265  24.563  27.133  1.00  0.00           H
-ATOM  10009  H   SIT X  1      22.265  15.563  33.133  1.00  0.00           H
-ATOM  10010  H   SIT X  1      22.265  25.563  35.133  1.00  0.00           H
-ATOM  10011  H   SIT X  1      22.265  11.563  18.133  1.00  0.00           H
-ATOM  10012  H   SIT X  1      19.265  11.563  42.133  1.00  0.00           H
-ATOM  10013  H   SIT X  1      28.265  20.563  22.133  1.00  0.00           H
-ATOM  10014  H   SIT X  1      20.265  14.563  38.133  1.00  0.00           H
-ATOM  10015  H   SIT X  1      24.265  26.563  29.133  1.00  0.00           H
-ATOM  10016  H   SIT X  1      23.265  23.563  20.133  1.00  0.00           H
-ATOM  10017  H   SIT X  1      12.265  17.563  15.133  1.00  0.00           H
-ATOM  10018  H   SIT X  1      26.265   8.563  30.133  1.00  0.00           H
-ATOM  10019  H   SIT X  1      23.265  26.563  24.133  1.00  0.00           H
-ATOM  10020  H   SIT X  1      27.265  16.563  24.133  1.00  0.00           H
-REMARK   Site 2 - Method: geometric, Consensus: 1.30, Binding Potential: 10.61
-ATOM  10021  O   SIT X  2      15.979  20.039  28.276  1.00  1.30           O
-ATOM  10022  H   SIT X  2      15.265  16.563  29.133  1.00  0.00           H
-ATOM  10023  H   SIT X  2      17.265  18.563  29.133  1.00  0.00           H
-ATOM  10024  H   SIT X  2      12.265  22.563  27.133  1.00  0.00           H
-ATOM  10025  H   SIT X  2      18.265  20.563  27.133  1.00  0.00           H
-ATOM  10026  H   SIT X  2      17.265  18.563  30.133  1.00  0.00           H
-ATOM  10027  H   SIT X  2      17.265  20.563  27.133  1.00  0.00           H
-ATOM  10028  H   SIT X  2      13.265  22.563  27.133  1.00  0.00           H
-ATOM  10029  H   SIT X  2      13.265  22.563  27.133  1.00  0.00           H
-ATOM  10030  H   SIT X  2      15.265  18.563  28.133  1.00  0.00           H
-ATOM  10031  H   SIT X  2      16.265  21.563  27.133  1.00  0.00           H
-ATOM  10032  H   SIT X  2      15.265  16.563  29.133  1.00  0.00           H
-ATOM  10033  H   SIT X  2      15.265  20.563  26.133  1.00  0.00           H
-ATOM  10034  H   SIT X  2      17.265  18.563  30.133  1.00  0.00           H
-ATOM  10035  H   SIT X  2      12.265  22.563  27.133  1.00  0.00           H
-ATOM  10036  H   SIT X  2      16.265  21.563  27.133  1.00  0.00           H
-ATOM  10037  H   SIT X  2      19.265  17.563  32.133  1.00  0.00           H
-ATOM  10038  H   SIT X  2      17.265  20.563  30.133  1.00  0.00           H
-ATOM  10039  H   SIT X  2      17.265  20.563  30.133  1.00  0.00           H
-ATOM  10040  H   SIT X  2      17.265  20.563  27.133  1.00  0.00           H
-ATOM  10041  H   SIT X  2      17.265  18.563  29.133  1.00  0.00           H
-REMARK   Site 3 - Method: geometric, Consensus: 1.30, Binding Potential: 8.71
-ATOM  10042  O   SIT X  3      20.765  26.563  15.966  1.00  1.30           O
-ATOM  10043  H   SIT X  3      22.265  23.563  16.133  1.00  0.00           H
-ATOM  10044  H   SIT X  3      22.265  23.563  16.133  1.00  0.00           H
-ATOM  10045  H   SIT X  3      21.265  27.563  15.133  1.00  0.00           H
-ATOM  10046  H   SIT X  3      20.265  25.563  16.133  1.00  0.00           H
-ATOM  10047  H   SIT X  3      19.265  29.563  16.133  1.00  0.00           H
-ATOM  10048  H   SIT X  3      19.265  29.563  16.133  1.00  0.00           H
-REMARK   Site 4 - Method: geometric, Consensus: 1.30, Binding Potential: 8.61
-ATOM  10049  O   SIT X  4      28.694  24.277  28.276  1.00  1.30           O
-ATOM  10050  H   SIT X  4      31.265  23.563  28.133  1.00  0.00           H
-ATOM  10051  H   SIT X  4      30.265  25.563  28.133  1.00  0.00           H
-ATOM  10052  H   SIT X  4      27.265  24.563  29.133  1.00  0.00           H
-ATOM  10053  H   SIT X  4      27.265  24.563  29.133  1.00  0.00           H
-ATOM  10054  H   SIT X  4      27.265  23.563  27.133  1.00  0.00           H
-ATOM  10055  H   SIT X  4      27.265  23.563  27.133  1.00  0.00           H
-ATOM  10056  H   SIT X  4      30.265  24.563  29.133  1.00  0.00           H
-REMARK   Site 5 - Method: geometric, Consensus: 1.30, Binding Potential: 8.05
-ATOM  10057  O   SIT X  5      14.865  13.163  38.333  1.00  1.30           O
-ATOM  10058  H   SIT X  5      13.265  13.563  39.133  1.00  0.00           H
-ATOM  10059  H   SIT X  5      15.265  11.563  38.133  1.00  0.00           H
-ATOM  10060  H   SIT X  5      15.265  11.563  38.133  1.00  0.00           H
-ATOM  10061  H   SIT X  5      15.265  14.563  38.133  1.00  0.00           H
-ATOM  10062  H   SIT X  5      15.265  14.563  38.133  1.00  0.00           H
-REMARK   Site 6 - Method: geometric, Consensus: 1.30, Binding Potential: 6.20
-ATOM  10063  O   SIT X  6      11.465   9.963  14.733  1.00  1.30           O
-ATOM  10064  H   SIT X  6      12.265  10.563  15.133  1.00  0.00           H
-ATOM  10065  H   SIT X  6      12.265  10.563  15.133  1.00  0.00           H
-ATOM  10066  H   SIT X  6      12.265   8.563  13.133  1.00  0.00           H
-ATOM  10067  H   SIT X  6      10.265   8.563  14.133  1.00  0.00           H
-ATOM  10068  H   SIT X  6      10.265  11.563  16.133  1.00  0.00           H
+REMARK   Generated on 2025-04-11 10:35:57
+REMARK   Site 1 - Method: geometric, Consensus: 3.90, Binding Potential: 15.12
+ATOM  10000  O   SIT X  1      23.665  16.363  29.333  1.00  3.90           O
+ATOM  10001  H   SIT X  1      25.265  15.563  28.133  1.00  0.00           H
+ATOM  10002  H   SIT X  1      24.265  16.563  29.133  1.00  0.00           H
+ATOM  10003  H   SIT X  1      24.265  16.563  29.133  1.00  0.00           H
+ATOM  10004  H   SIT X  1      22.265  16.563  30.133  1.00  0.00           H
+ATOM  10005  H   SIT X  1      22.265  16.563  30.133  1.00  0.00           H
 TER
 END

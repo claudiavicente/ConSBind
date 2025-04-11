@@ -2,182 +2,33 @@ Predicted Binding Sites
 ======================
 
 Site 1:
-Detection Methods: geometric
-Consensus Score: 1.30
-Binding Potential Score: 40.10
-Druggability: 0.40
-Knowledge-based Score: 5.50
-Size: 327
-Center: 22.305, 17.951, 27.329
+Detection Methods: geometric, energy
+Consensus Score: 3.90
+Binding Potential Score: 15.12
+Druggability: 0.44
+Knowledge-based Score: 4.50
+Size: 5
+Center: 23.665, 16.363, 29.333
 
 Binding Site Residues:
+  E:LYS7
   E:PHE8
   E:GLU9
-  E:ARG10
   E:GLN11
   E:HIS12
   E:MET13
-  E:ASP14
-  E:LYS41
-  E:ASN44
   E:THR45
   E:PHE46
   E:VAL47
   E:VAL54
-  E:ILE81
-  E:THR82
   E:ILE106
   E:ILE107
   E:VAL108
-  E:PRO117
-  E:HIS119
-  E:PHE120
-  E:ASP121
-  E:ALA122
-
-Site 2:
-Detection Methods: geometric
-Consensus Score: 1.30
-Binding Potential Score: 10.61
-Druggability: 0.21
-Knowledge-based Score: 7.50
-Size: 21
-Center: 15.979, 20.039, 28.276
-
-Binding Site Residues:
-  E:HIS12
-  E:LYS41
-  E:PRO42
-  E:VAL43
-  E:ASN44
-  E:THR45
-  E:PHE46
-  E:LYS66
-  E:ILE81
-  E:THR82
-  E:ASP83
-  E:CYS84
-  E:ARG85
-  E:ILE107
-  E:HIS119
-  E:PHE120
-  E:ASP121
-  E:ALA122
-  E:SER123
-
-Site 3:
-Detection Methods: geometric
-Consensus Score: 1.30
-Binding Potential Score: 8.71
-Druggability: 0.02
-Knowledge-based Score: 7.00
-Size: 6
-Center: 20.765, 26.563, 15.966
-
-Binding Site Residues:
-  E:ASP14
-  E:ALA19
-  E:ALA20
-  E:SER21
-  E:SER22
-  E:SER23
-  E:ASN24
-  E:TYR25
-  E:CYS26
-  E:ASN27
-  E:GLN28
-  E:MET29
-  E:MET30
-  E:PHE46
-  E:HIS48
-  E:THR82
-  E:ASP83
-  E:CYS84
-  E:TYR97
-  E:LYS98
-  E:THR99
-  E:THR100
-  E:GLN101
-
-Site 4:
-Detection Methods: geometric
-Consensus Score: 1.30
-Binding Potential Score: 8.61
-Druggability: 0.22
-Knowledge-based Score: 6.50
-Size: 7
-Center: 28.694, 24.277, 28.276
-
-Binding Site Residues:
-  E:HIS12
-  E:MET13
-  E:ASP14
-  E:SER15
-  E:THR17
-  E:SER18
-  E:PHE46
-  E:VAL47
-  E:HIS48
-  E:GLU49
-  E:SER50
-  E:LEU51
-  E:ASP53
-  E:VAL54
-  E:THR78
-  E:MET79
-  E:SER80
-  E:ILE81
-  E:THR82
-  E:GLN101
-  E:ALA102
-  E:ASN103
-  E:LYS104
-  E:ILE106
-
-Site 5:
-Detection Methods: geometric
-Consensus Score: 1.30
-Binding Potential Score: 8.05
-Druggability: 0.11
-Knowledge-based Score: 6.00
-Size: 5
-Center: 14.865, 13.163, 38.333
-
-Binding Site Residues:
-  E:VAL63
-  E:ALA64
-  E:CYS65
-  E:LYS66
-  E:ASN67
-  E:GLY68
-  E:GLN69
-  E:THR70
-  E:ASN71
-  E:CYS72
-  E:ILE107
   E:ALA109
+  E:PRO117
+  E:VAL118
   E:HIS119
+  E:PHE120
   E:ASP121
-
-Site 6:
-Detection Methods: geometric
-Consensus Score: 1.30
-Binding Potential Score: 6.20
-Druggability: 0.00
-Knowledge-based Score: 3.00
-Size: 5
-Center: 11.465, 9.963, 14.733
-
-Binding Site Residues:
-  E:ASN34
-  E:LEU35
-  E:THR36
-  E:LYS37
-  E:ASP38
-  E:ARG39
-  E:CYS40
-  E:LYS41
-  E:TYR92
-  E:PRO93
-  E:CYS95
+  E:ALA122
 

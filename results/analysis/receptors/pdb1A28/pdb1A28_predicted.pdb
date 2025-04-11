@@ -4717,14 +4717,16 @@ CONECT 4084 4082
 MASTER      281    0    2   22    6    0    6    9 4262    2   46   40          
 
 REMARK   Predicted Binding Sites
-REMARK   Generated on 2025-04-10 16:24:47
-REMARK   Site 1 - Method: geometric, Consensus: 1.00, Binding Potential: 7.74
-ATOM  10000  O   SIT X  1      31.059  12.040  56.676  1.00  1.00           O
-ATOM  10001  H   SIT X  1      30.226  10.707  58.343  1.00  0.00           H
-ATOM  10002  H   SIT X  1      30.226  10.707  58.343  1.00  0.00           H
-ATOM  10003  H   SIT X  1      31.226  12.707  57.343  1.00  0.00           H
-ATOM  10004  H   SIT X  1      30.226  12.707  55.343  1.00  0.00           H
-ATOM  10005  H   SIT X  1      32.226  12.707  55.343  1.00  0.00           H
-ATOM  10006  H   SIT X  1      32.226  12.707  55.343  1.00  0.00           H
+REMARK   Generated on 2025-04-11 10:39:29
+REMARK   Site 1 - Method: geometric, Consensus: 3.00, Binding Potential: 10.95
+ATOM  10000  O   SIT X  1      38.101  24.207  25.718  1.00  3.00           O
+ATOM  10001  H   SIT X  1      37.226  23.707  25.343  1.00  0.00           H
+ATOM  10002  H   SIT X  1      37.226  23.707  28.343  1.00  0.00           H
+ATOM  10003  H   SIT X  1      37.226  23.707  28.343  1.00  0.00           H
+ATOM  10004  H   SIT X  1      38.226  24.707  22.343  1.00  0.00           H
+ATOM  10005  H   SIT X  1      38.226  24.707  22.343  1.00  0.00           H
+ATOM  10006  H   SIT X  1      38.226  25.707  24.343  1.00  0.00           H
+ATOM  10007  H   SIT X  1      39.226  23.707  27.343  1.00  0.00           H
+ATOM  10008  H   SIT X  1      39.226  23.707  27.343  1.00  0.00           H
 TER
 END
