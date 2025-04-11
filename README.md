@@ -116,7 +116,7 @@ For each processed protein, ConSBind generates:
 ### Advanced Options
 
 ```bash
-consbind protein.pdb --protein_type enzyme --generate_chimera False
+consbind protein.pdb --protein_type enzyme --generate_chimera
 ```
 
 Available options:
